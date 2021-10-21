@@ -1,2 +1,2 @@
 # Searchings-and-Sortings
-<h1>Searching Techniques</h1>
+<h2>Searching Techniques</h2>
