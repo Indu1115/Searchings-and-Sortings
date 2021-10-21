@@ -38,3 +38,8 @@ In Linear search, we search an element or value in a given array by traversing t
   <li>When a match is found, return the index of the element matched.</li>
   <li>If no match is found, then return target value is not found</li>
 </ul>
+<h2>Sorting Techniques</h2>
+<ul>
+  <li>Sorting is nothing but arranging the data in ascending or descending order.</li>
+  <li>Sorting arranges data in a sequence which makes searching easier.</li>
+</ul>
