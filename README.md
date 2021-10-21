@@ -22,3 +22,19 @@ In Linear search, we search an element or value in a given array by traversing t
   <li>Else repeat the process until the end of the array</li>
   <li>After traversing the array If the match is not found then return -1</li>
 </ol>
+<h3>Binary Search</h3>
+<p>Binary Search is applied on the sorted array or list of large size</p>
+<h3>Algorithm</h3>
+<ul>
+  <li> Start with the middle element</li>
+  <ul>
+    <li>If the target value is equal to the middle element of the array, then return the index of the middle element</li>
+    <li>If not, then compare the middle element with the target value,</li>
+    <ul>
+      <li>If the target value is greater than the number in the middle index, then pick the elements to the right of the middle index, and start with Step 1</li>
+      <li>If the target value is less than the number in the middle index, then pick the elements to the left of the middle index, and start with Step 1.</li>
+    </ul>
+  </ul>
+  <li>When a match is found, return the index of the element matched.</li>
+  <li>If no match is found, then return target value is not found</li>
+</ul>
