@@ -10,3 +10,6 @@
   <li>Linear Search</li>
   <li>Binary Search</li>
 </ol>
+<h3>Linear Search</h3>
+<p>Linear search is a very basic and simple search algorithm. <br>
+In Linear search, we search an element or value in a given array by traversing the array from the starting, till the desired element or value is found.</p>
