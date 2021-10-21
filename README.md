@@ -43,3 +43,12 @@ In Linear search, we search an element or value in a given array by traversing t
   <li>Sorting is nothing but arranging the data in ascending or descending order.</li>
   <li>Sorting arranges data in a sequence which makes searching easier.</li>
 </ul>
+<h3>Types of Sortings</h2>
+<ol>
+  <li>Insertion Sort</li>
+  <li>Selection Sort</li>
+  <li>Bubble Sort</li>
+  <li>Merge Sort</li>
+  <li>Quik Sort</li>
+  <li>Heap Sort</li>
+</ol>
